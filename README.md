@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oluwafemi Omojola
 =========================================================================================================================================
 
-Data Analyst
+Data Scientist
 ------------
 
 I've been learning to analyse and decipher meaningful information from data over the course of two years now. I started with MS Excel, then on to Google sheets, SQL, Python. I have really found a passion for analysing and manipulating data to bring out valuable inferences that can be pivotal to the growth of businesses and organizations.
